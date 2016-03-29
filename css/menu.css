@@ -931,7 +931,8 @@
 .footer__bottom .footer__created {
 	font-size: 12px;
 	line-height: 2.9;
-	min-width: 205px;
+	min-width: 220px;
+	text-align: right;
 }
 .footer__bottom .footer__created:hover {
 	color: #1bb4ed;
